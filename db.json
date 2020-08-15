@@ -4,8 +4,8 @@
     { "id": 2, "title": "To-do 2", "completed":true },
     { "id": 3, "title": "To-do 3", "completed":false }
   ],
-  "user": {
-    "username": "tr-1000",
-    "password": "passtheword"
-  }
+  "users": [
+    { "username": "tr-1000", "password": "passtheword" },
+    { "username": "trizzle", "password": "testpassword" }
+  ] 
 }
