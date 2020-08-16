@@ -1,17 +1,11 @@
 {
-  
+  "todos": [
+    { "id": 1, "title": "To-do 1", "completed":false },
+    { "id": 2, "title": "To-do 2", "completed":true },
+    { "id": 3, "title": "To-do 3", "completed":false }
+  ],
   "users": [
-    { "id": 1, "username": "tr-1000", "password": "passtheword", "todos": [
-                                                                    { "id": 1, "title": "To-do 1", "completed":false },
-                                                                    { "id": 2, "title": "To-do 2", "completed":true },
-                                                                    { "id": 3, "title": "To-do 3", "completed":false }
-                                                                  ] 
-    },
-    { "id": 2, "username": "trizzle", "password": "testpassword", "todos": [
-                                                                     { "id": 1, "title": "To-do 1", "completed":false },
-                                                                     { "id": 2, "title": "To-do 2", "completed":true },
-                                                                     { "id": 3, "title": "To-do 3", "completed":false }
-                                                                   ] 
-    }
+    { "id": 1, "username": "tr-1000", "password": "passtheword" },
+    { "id": 2, "username": "trizzle", "password": "testpassword" }
   ] 
 }
