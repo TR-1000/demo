@@ -6,6 +6,9 @@
   ],
   "users": [
     { "id": 1, "username": "tr-1000", "password": "passtheword" },
-    { "id": 2, "username": "trizzle", "password": "testpassword" }
+    { "id": 2, "username": "trizzle", "password": "testpassword" },
+    { "id": 3, "username": "test", "password": "testpassword" },
+    { "id": 4, "username": "apex", "password": "testpassword" },
+    { "id": 5, "username": "testing123", "password": "password" }
   ] 
 }
